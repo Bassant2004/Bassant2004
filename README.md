@@ -4,6 +4,8 @@
 
 💻 Aspiring Full Stack Developer
 
+🌍 Based in Egypt
+
 ## About Me
 
 I'm a Computer Science graduate who is passionate about software development. I'm currently building a strong foundation in programming while learning and creating projects.
