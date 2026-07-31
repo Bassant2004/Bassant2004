@@ -24,6 +24,10 @@ I'm a Computer Science graduate who is passionate about software development. I'
 - Improve problem-solving skills.
 - Become a professional Full Stack Developer.
 
+## 📊 GitHub Stats
+
+![Bassant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bassant2004&show_icons=true&theme=default)
+
 <!--
 **Bassant2004/Bassant2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
