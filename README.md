@@ -28,6 +28,11 @@ I'm a Computer Science graduate who is passionate about software development. I'
 
 ![Bassant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bassant2004&show_icons=true&theme=default)
 
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bassant2004&layout=compact&theme=default)
+
 <!--
 **Bassant2004/Bassant2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
