@@ -17,6 +17,10 @@ I'm a Computer Science graduate who is passionate about software development. I'
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+-**Full Stack Web Development** (Route Academy)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb" />
+</p>
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 
@@ -29,6 +33,7 @@ I'm a Computer Science graduate who is passionate about software development. I'
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/engbassant)
+- [Email](mailto:bassantkhaledsalmoon@gmail.com)
 
 <!--
 **Bassant2004/Bassant2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
