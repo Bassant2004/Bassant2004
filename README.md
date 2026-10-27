@@ -32,9 +32,8 @@ I'm a Computer Science graduate who is passionate about software development. I'
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/engbassant)
-- [Email](mailto:bassantkhaledsalmoon@gmail.com)
-
+- 💼 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/engbassant)
+- ✉️ **Email:** [Send me an email](mailto:bassantkhaledsalmoon@gmail.com)
 <!--
 **Bassant2004/Bassant2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
